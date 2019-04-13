@@ -1,0 +1,1 @@
+INSERT INTO `miaosha_user`(`id`, `head`, `last_login_date`, `login_count`, `nickname`, `password`, `register_date`, `salt`) VALUES (18888888888, NULL, '2019-04-13 15:35:22', 1, 'MasterPan', 'b7797cce01b4b131b433b6acf4add449', '2019-04-13 15:35:16', '1a2b3c4d');
